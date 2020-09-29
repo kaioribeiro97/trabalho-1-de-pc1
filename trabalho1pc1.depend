@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1601328530 source:c:\users\hozil\desktop\hugo\programção 1\trabalho1pc1\main.c
+	"estruturas.h"
+	"converte.h"
+
+1601181132 c:\users\hozil\desktop\hugo\programção 1\trabalho1pc1\estruturas.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1601264046 source:c:\users\hozil\desktop\hugo\programção 1\trabalho1pc1\converte.c
+	"converte.h"
+
+1601180364 c:\users\hozil\desktop\hugo\programção 1\trabalho1pc1\converte.h
+	"estruturas.h"
+
+1601264046 source:c:\users\hozil\desktop\hugo\programção 1\trabalho1_hugogustavokaioribeiro\converte.c
+	"converte.h"
+
+1601180364 c:\users\hozil\desktop\hugo\programção 1\trabalho1_hugogustavokaioribeiro\converte.h
+	"estruturas.h"
+
+1601181132 c:\users\hozil\desktop\hugo\programção 1\trabalho1_hugogustavokaioribeiro\estruturas.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1601419002 source:c:\users\hozil\desktop\hugo\programção 1\trabalho1_hugogustavokaioribeiro\main.c
+	"estruturas.h"
+	"converte.h"
+
