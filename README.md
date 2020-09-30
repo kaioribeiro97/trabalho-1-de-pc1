@@ -1,4 +1,4 @@
-# CSistema de Controle de Estoque
+# Sistema de Controle de Estoque
 Integrantes: Hugo Gustavos dos Santos pinto, Kaio Ribeiro Rodrigues.
 
 foram utilizadas somente bibliotecas padrões neste projeto
@@ -20,7 +20,9 @@ recebendo do usuário as seguintes informações (Além das seguintes mensagens
 para o usuário):
 
 	*Nome do produto
+	
 	*País de origem
+	
 	*Quantidade de itens
 Após isso deve ser gerado um novo código de acordo com a ordem de registro do produto.
 
