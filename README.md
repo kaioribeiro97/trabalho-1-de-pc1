@@ -40,10 +40,8 @@ seguinte menu:
 	
 
 
-* 3- Vender produto: Ao selecionar a opção de n° 3 deve-se receber como entrada o código do
-produto. Caso não encontre o produto deve-se emitir a mensagem “Código
-inválido!” e voltar ao menu principal. Caso o encontre deve-se receber a
-quantidade de itens a serem vendidas.
+* 3- Vender produto: Ao selecionar a opção de n° 3 deve-se receber como entrada o código do produto. Caso não encontre o produto deve-se emitir a mensagem “Código
+inválido!” e voltar ao menu principal. Caso o encontre deve-se receber a quantidade de itens a serem vendidas.
 
 	*A quantidade de itens a ser vendido deve ser maior ou igual a zero e
 	não deve ser maior que o estoque disponível. Caso seja negativo,
