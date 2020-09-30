@@ -19,18 +19,18 @@ o sistema operacional utilizado foi WINDOWS 10
 recebendo do usuário as seguintes informações (Além das seguintes mensagens
 para o usuário):
 
-	-Nome do produto
-	-País de origem
-	-Quantidade de itens
+	*Nome do produto
+	*País de origem
+	*Quantidade de itens
 Após isso deve ser gerado um novo código de acordo com a ordem de registro do produto.
 
 * 2- Atualizar informações de um produto: Ao selecionar a opção de n° 2 o programa deve receber como entrada o
 código do produto. Caso não encontre o produto deve-se emitir a mensagem
 “Código inválido!” e voltar ao menu principal. Caso o encontre deve-se exibir o
 seguinte menu:
-	-Alterar nome: O produto recebe um novo nome para o produto;
-	-Alterar país de origem: O produto recebe um novo país de origem;
-	-Adicionar mais itens: O produto recebe uma quantidade de itens a ser
+	*Alterar nome: O produto recebe um novo nome para o produto;
+	*Alterar país de origem: O produto recebe um novo país de origem;
+	*Adicionar mais itens: O produto recebe uma quantidade de itens a ser
 adicionado ao estoque atual.
 
 
