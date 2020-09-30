@@ -13,7 +13,7 @@ os arquivos pertencentes ao projeto simultaneamente.
 
 o sistema operacional utilizado foi WINDOWS 10 
 
-# Cadastro de produtos
+# produtos
 
 * 1 - Cadastrar novo produto: Ao selecionar a opção de n° 1 o programa deve cadastrar um novo produto
 recebendo do usuário as seguintes informações (Além das seguintes mensagens
